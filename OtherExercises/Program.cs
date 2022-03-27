@@ -1,33 +1,4 @@
-﻿//Exercise10();
-//sequence of neighbor elements that sums up to S
-int S = 11;
-int sum = 0;
-int[] array = { 4, 3, 1, 4, 2, 5, 8 };
-List<int> neighbors = new List<int>() ;
-
-for (int i = 0; i < array.Length; i++)
-{
-    int j = i;
-    sum = 0;
-    neighbors.Clear() ;
-    while (sum < S + 1)
-    {
-        neighbors.Add( array[j]);
-        sum += array[j];
-        j ++;
-    }
-    if(sum == S)
-    {
-        break;
-    }
-    
-}
-
-Console.WriteLine("The neighbor sequence is :");
-foreach (int i in neighbors)   
-{
-    Console.Write("{0} ", neighbors[i]);
-}
+﻿Exercise11();
 static void Exercise1()
 {
     int[] setOfNumbers = new int[20];
@@ -354,4 +325,37 @@ static void Exercise10()
     int maxAppearance = counter.Max();
     int maxAppearanceIndex = Array.IndexOf(counter, maxAppearance);
     Console.WriteLine("{0} is the highest occuring number", array[maxAppearanceIndex]);
+}
+
+static void Exercise11()
+{
+    //sequence of neighbor elements that sums up to S
+    int S = 11;
+    int sum = 0;
+    int[] array = { 4, 3, 1, 4, 2, 5, 8 };
+    List<int> neighbors = new List<int>();
+
+    for (int i = 0; i < array.Length - 1; i++)
+    {
+        int j = i;
+        sum = 0;
+        neighbors.Clear();
+        while (sum < S + 1)
+        {
+            sum += array[j];
+            neighbors.Add(array[j]);
+            j++;
+        }
+
+        if (sum == S)
+        {
+            break;
+        }
+    }
+
+    Console.WriteLine("The neighbor sequence is :");
+    foreach (int i in neighbors)
+    {
+        Console.Write("{0} ", i);
+    }
 }
