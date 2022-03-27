@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\bin\Debug\net6.0\OtherExercises.exe
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\bin\Debug\net6.0\OtherExercises.deps.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\bin\Debug\net6.0\OtherExercises.runtimeconfig.json
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\bin\Debug\net6.0\OtherExercises.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\bin\Debug\net6.0\OtherExercises.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.AssemblyInfo.cs
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\refint\OtherExercises.dll
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.pdb
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\OtherExercises.genruntimeconfig.cache
+C:\Users\Asus\Desktop\CypherCresent Software Academy\Assignments\ArrayExercises\OtherExercises\obj\Debug\net6.0\ref\OtherExercises.dll
